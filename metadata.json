@@ -1,0 +1,6 @@
+{
+  "name": "Diet Card Management System",
+  "description": "Role-based Diet Card Management System for managing member profiles, digital diet cards, and assigned meal plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
